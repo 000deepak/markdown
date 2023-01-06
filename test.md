@@ -80,7 +80,7 @@ Amazon Elastic Compute Cloud is a part of Amazon.com's cloud-computing
 platform, Amazon Web Services, that allows users to rent virtual computers on which 
 to run their own computer applications.
 
-## 1. What Is Amazon Ec2 Service ?
+## 1. What Is Amazon Ec2 Service?
 
 EC2 stands for Amazon Elastic Compute Cloud.
 Amazon Elastic Compute Cloud is a part of Amazon.com's cloud-computing 
