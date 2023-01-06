@@ -21,6 +21,64 @@
 2.[ What Are The Features Of The Amazon Ec2 Service ](https://github.com/000deepak/AWS/blob/master/aws/1.EC2.md#features-of-ec2)
 
 
+EC2 stands for Amazon Elastic Compute Cloud.
+Amazon Elastic Compute Cloud is a part of Amazon.com's cloud-computing 
+platform, Amazon Web Services, that allows users to rent virtual computers on which 
+to run their own computer applications.
+EC2 stands for Amazon Elastic Compute Cloud.
+Amazon Elastic Compute Cloud is a part of Amazon.com's cloud-computing 
+platform, Amazon Web Services, that allows users to rent virtual computers on which 
+to run their own computer applications.
+EC2 stands for Amazon Elastic Compute Cloud.
+Amazon Elastic Compute Cloud is a part of Amazon.com's cloud-computing 
+platform, Amazon Web Services, that allows users to rent virtual computers on which 
+to run their own computer applications.
+EC2 stands for Amazon Elastic Compute Cloud.
+Amazon Elastic Compute Cloud is a part of Amazon.com's cloud-computing 
+platform, Amazon Web Services, that allows users to rent virtual computers on which 
+to run their own computer applications.
+EC2 stands for Amazon Elastic Compute Cloud.
+Amazon Elastic Compute Cloud is a part of Amazon.com's cloud-computing 
+platform, Amazon Web Services, that allows users to rent virtual computers on which 
+to run their own computer applications.
+EC2 stands for Amazon Elastic Compute Cloud.
+Amazon Elastic Compute Cloud is a part of Amazon.com's cloud-computing 
+platform, Amazon Web Services, that allows users to rent virtual computers on which 
+to run their own computer applications.
+EC2 stands for Amazon Elastic Compute Cloud.
+Amazon Elastic Compute Cloud is a part of Amazon.com's cloud-computing 
+platform, Amazon Web Services, that allows users to rent virtual computers on which 
+to run their own computer applications.
+EC2 stands for Amazon Elastic Compute Cloud.
+Amazon Elastic Compute Cloud is a part of Amazon.com's cloud-computing 
+platform, Amazon Web Services, that allows users to rent virtual computers on which 
+to run their own computer applications.
+EC2 stands for Amazon Elastic Compute Cloud.
+Amazon Elastic Compute Cloud is a part of Amazon.com's cloud-computing 
+platform, Amazon Web Services, that allows users to rent virtual computers on which 
+to run their own computer applications.
+EC2 stands for Amazon Elastic Compute Cloud.
+Amazon Elastic Compute Cloud is a part of Amazon.com's cloud-computing 
+platform, Amazon Web Services, that allows users to rent virtual computers on which 
+to run their own computer applications.
+EC2 stands for Amazon Elastic Compute Cloud.
+Amazon Elastic Compute Cloud is a part of Amazon.com's cloud-computing 
+platform, Amazon Web Services, that allows users to rent virtual computers on which 
+to run their own computer applications.
+EC2 stands for Amazon Elastic Compute Cloud.
+Amazon Elastic Compute Cloud is a part of Amazon.com's cloud-computing 
+platform, Amazon Web Services, that allows users to rent virtual computers on which 
+to run their own computer applications.
+EC2 stands for Amazon Elastic Compute Cloud.
+Amazon Elastic Compute Cloud is a part of Amazon.com's cloud-computing 
+platform, Amazon Web Services, that allows users to rent virtual computers on which 
+to run their own computer applications.
+v
+v
+EC2 stands for Amazon Elastic Compute Cloud.
+Amazon Elastic Compute Cloud is a part of Amazon.com's cloud-computing 
+platform, Amazon Web Services, that allows users to rent virtual computers on which 
+to run their own computer applications.
 
 ## 1. What Is Amazon Ec2 Service ?
 
